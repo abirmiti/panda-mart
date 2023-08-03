@@ -1,0 +1,30 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.panda-bg-info{
+    background-color: #fceae8;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-btn-color{
+    background-color: #ff2379;
+}
+.pack-color{
+    background-color: #ffb627;
+}
+.pack-color-1{
+    background-color: #ff3887;
+}
+.pack-color-2{
+    background-color: #414bfc;
+}
+button{
+    background-color: #ff3887;
+    border: none;
+    padding: 15px 50px;
+}
+.button-2{
+    background-color: #ff3887;
+    border: none;
+    padding: 10px 40px;
+}
